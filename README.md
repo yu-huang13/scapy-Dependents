@@ -51,7 +51,7 @@ sudo python setup.py install
 
 ###运行scapy
 ```
-HYdeMacBook-Pro:pycrypto-2.6.1 apple$ sudo scapy
+HYdeMacBook-Pro: apple$ sudo scapy
 WARNING: No route found for IPv6 destination :: (no default route?)
 Welcome to Scapy (2.3.2)
 >>> 
