@@ -1,4 +1,19 @@
 #scapy 安装
+
+##ubuntu
+###下载依赖
+```
+sudo apt-get install tcpdump graphviz imagemagick python-gnuplot python-crypto python-pyx
+```
+
+###安装scapy
+下载scapy安装包后：
+
+```
+cd scapy-2.3.2
+sudo python setup.py install
+```
+
 ##mac
 参考以下链接：
 
